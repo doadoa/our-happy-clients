@@ -1,0 +1,302 @@
+#banner{
+	background-image: url(background/black-background_00313351.jpg);
+	background-repeat: no-repeat;
+	background-color: #fff;
+	/*argin-bottom: 150px;*/
+}
+#banner h1{
+	color: #ffc60c;
+	margin: 80px;
+}
+#banner button{
+/*	padding: 20px 35px;
+	border: 2px solid black;
+	color: #ffc60c;*/
+	margin-bottom: 40px;
+}
+#banner p{
+	font-size: 20px;
+	color: #fff;
+}
+#lorem p{
+	font-size: 15px;
+}
+#lorem a{
+	text-decoration: none;
+	outline: none;
+	padding: 10px 15px;
+	border: 2px solid black;
+	color: #ffc60c;
+	background-color: grey;
+	display: inline-block;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+#lorem img{
+	border-radius: 10px;
+}
+#something h2{
+margin: 20px;
+margin-bottom: 60px;
+}
+.knopka:hover,
+#lorem a:hover
+{
+    background-color:#999999;
+	color: black;
+	border: 2px solid black;
+	opacity: 0.9;
+	transition: all 0.5s ease-in-out;
+	opacity: 0.9;
+}
+#ipsum h2:after,
+#opa h2:after{
+	content: '';
+	padding: 0px;
+	border: 1px solid black;
+	font-size: 2%;
+	display: block;
+	height: 2px;
+	width: 61px;
+	position: relative;
+	left: 47%;
+}
+#banner li{
+	color: #fff;
+	
+}
+#opa{
+	background-color: #00b300;
+}
+#opa .btn{
+	margin-bottom: 100px;
+	margin-top: 20px;
+	background-color: #fff;
+	color: 	#009900;
+}
+#opa .btn:hover,
+.btn:active{
+	background-color: #009900;
+
+}
+#opa h2{
+	margin-top: 50px;
+	font-size: 30px;
+}
+#opa h2,p{
+	opacity: 0.8;
+}
+#opa h2:after{
+	margin-top: 5px;
+	opacity: 0.8;
+}
+.LOGO{
+	background-image: url(background/240px-Natusvincerelogo.jpg);
+}
+.krasivo:hover{
+	border-top: 3px solid #ffc60c;
+	font-weight: 600;
+}
+.menu a{
+	text-decoration: none;
+	outline: none;
+	color:  #ffc60c;
+	font-family: century gothic;
+}
+.menu{
+padding-top: 5px;
+}
+.{
+	background-color:  #ffc60c;
+	border: 1px solid  #ffc60c;
+	color: #000;
+}
+.menu .LOGO{
+	background-image: url(background/Nirvana-logo-100x100.png);
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+}
+.search{
+	color: #ffc60c;
+	border: none;
+	border-radius: 15px;
+	padding: 5px 10px;
+}
+.search:hover,
+.search:active{
+ background-color: #ffc60c;
+ color: #000;
+ border: 1px solid #000;
+}
+.icon{
+	text-decoration: none;
+	outline: none;
+	color:  #000!important;
+	display: inline-block;
+    position: relative;
+    left: -29px;
+}
+.icon:hover{
+	font-size: 18px;
+}
+.yakor{
+	display: block;
+	margin: 10px;
+	text-decoration: none;
+	outline: none;
+	color: #ffc60c;
+}
+.uup{
+	display: block;
+	margin: 10px;
+	text-decoration: none;
+	outline: none;
+	color:  #009900;
+}
+#KARYCEL{
+	background-image: url(background/tony-webster-97532-unsplash.jpg);
+}
+#opa ul{
+border: none;
+margin: 20px;
+}
+.lolo{
+	margin-bottom: 20px;
+}
+.grey{
+	background-image: url(background/4k-Nature-Wallpapers-1680x1050.jpg);
+}
+.red{
+	background-color: darkred;
+}
+.blue{
+	background-image: url(background/prekrasno.jpg);
+}
+.lpa{
+	padding: 0px;
+}
+.dropdown-menu{
+	background-color: rgba(255,255,255,0);
+	/*opacity: 0.5;*/
+}
+.yakor1{
+		display: block;
+	margin: 10px;
+	text-decoration: none;
+	outline: none;
+	color: #000;
+}
+.yakor:hover,
+.yakor1:hover{
+	font-weight: 600;
+	text-decoration: none;
+	outline: none;
+}
+.my-flex{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+	/*height: 300px;*/
+}
+.my-flex-block{
+	width: 400px;
+	padding: 20px;
+}
+#comp{
+	background-color: #f2f1f1;
+}
+.gg:after {
+    content: '';
+    padding: 0px;
+    border: 1px solid #828181;
+    font-size: 2%;
+    display: block;
+    height: 2px;
+    width: 35px;
+    position: relative;
+    left: 48%;
+    margin: 5px;
+    opacity: .9;
+}
+#comp h3{
+	margin-top: 10px;
+	padding: 15px;
+	color: #919090;
+}
+.my-flex-block1 h3:after{
+	 content: '';
+    padding: 0px;
+    border: 1px solid #ffc60c;
+    font-size: 2%;
+    display: block;
+    height: 2px;
+    width: 35px;
+    position: relative;
+    left: 19%;
+    margin: 2px;
+    opacity: .9;
+}
+.my-flex-block2 h3:after{
+	 content: '';
+    padding: 0px;
+    border: 1px solid #ffc60c;
+    font-size: 2%;
+    display: block;
+    height: 2px;
+    width: 35px;
+    position: relative;
+    left: 21%;
+    margin: 2px;
+    opacity: .9;
+}
+.my-flex-block3 h3:after{
+	 content: '';
+    padding: 0px;
+    border: 1px solid #ffc60c;
+    font-size: 2%;
+    display: block;
+    height: 2px;
+    width: 35px;
+    position: relative;
+    left: 21%;
+    margin: 2px;
+    opacity: .9;
+}
+.moi-flex{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin: 10px;
+}
+#NOGA h3{
+	color: grey;
+}
+#NOGA{
+	background-color: #000;
+}
+.kruchu:hover{
+	animation: kruchu 2s linear infinite;
+	position: relative;
+}
+@keyframes kruchu{
+	0%{transform: rotate(1deg);}
+	100%{transform: rotate(359deg);}
+}
+.verchu{
+	animation: verchu 10s linear normal infinite;
+	position: relative;
+	font-family: century gothic;
+	font-size: 25px;
+	color: darkred;
+}
+@keyframes verchu{
+	0%{left:0px;}
+	100%{left: calc(100% + 30px)};
+}
+footer{
+	margin: 0px;
+}
